@@ -7,11 +7,13 @@
 function setFeedingTime(time){
     feedTime = time;
 }
+//user input for setFeedingTime
 
 // Function to set turns per feeding
 function setNumberOfTurns(turns){
     numberOfTurns = turns;
 }
+//user input for setNumberOfTurns
 
 // Function to dispense food
 function dispenseFood (){
