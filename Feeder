@@ -1,4 +1,32 @@
-// function that tracks time
-//function with input set feeding times
-//function with input that sets feeding amounts
-//function that tracks amount of food left.
+// Variables to store user inputs
+    // User input for feeding time
+    // User input for number of turns per feeding
+    // Initial amount of food, assuming it's a percentage
+
+// Function to set feeding time
+
+
+// Function to set turns per feeding
+
+
+// Function to dispense food
+
+        // Calculate the amount of food to dispense based on turnsPerFeeding
+             // You need to determine the appropriate constant
+        
+        // Update the remaining food
+        
+
+        // Dispense the food
+        // Code to control the feeder and dispense food
+        
+        // Log the dispensed amount and remaining food
+        
+
+// Function to check the current time and trigger feeding if it's the set feeding time
+     // You need to implement this function to get the current time
+   
+
+// Main loop
+    // Other tasks or sleep for some time before checking again
+
